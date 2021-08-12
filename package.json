@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "A generator to display a teams basic info.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wgobrie1/Team-profile-gen.git"
+  },
+  "author": "William O'Brien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wgobrie1/Team-profile-gen/issues"
+  },
+  "homepage": "https://github.com/Wgobrie1/Team-profile-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
